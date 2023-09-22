@@ -19,11 +19,6 @@ a {
   color: unset;
 }
 
-h1 {
-  position: absolute;
-  display: none;
-}
-
 main {
   display: flex;
   position: absolute;
