@@ -32,7 +32,7 @@ $Dark-gray-blue: hsl(224, 30%, 27%);
 body {
   font-size: 18px;
   font-family: "Hanken Grotesk", sans-serif;
-  background-color: rgb(235 241 255 / 46%);
+  background-color: $Pale-blue;
 }
 
 ul li {
@@ -206,8 +206,8 @@ main {
       transition: 0.2s;
       position: relative;
       background-color: $Dark-gray-blue;
-
-      a {
+      
+      span {
         position: relative;
         z-index: 1;
       }

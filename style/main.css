@@ -7,7 +7,7 @@
 body {
   font-size: 18px;
   font-family: "Hanken Grotesk", sans-serif;
-  background-color: rgb(235 241 255 / 46%);
+  background-color: hsl(221, 100%, 96%);
 }
 
 ul li {
@@ -155,7 +155,7 @@ main .summary button {
   position: relative;
   background-color: hsl(224, 30%, 27%);
 }
-main .summary button a {
+main .summary button span {
   position: relative;
   z-index: 1;
 }
